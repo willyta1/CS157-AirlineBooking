@@ -1,0 +1,9 @@
+/bin1/
+/bin/
+
+# Ignore IDE-specific files
+.classpath
+.project
+.settings/
+.vscode/
+.DS_Store
